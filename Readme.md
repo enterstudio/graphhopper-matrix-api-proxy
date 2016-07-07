@@ -9,6 +9,8 @@ Apache License 2.0
 ### Installation
 
 ```bash
+git clone https://github.com/karussell/graphhopper-matrix-api-proxy.git
+cd graphhopper-matrix-api-proxy
 npm install
 node app.js
 ```
