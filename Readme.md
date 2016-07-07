@@ -15,4 +15,6 @@ node app.js
 
 ### Try
 
+```bash
 curl "http://localhost:3000/graphhopper_matrix?origins=40.6655101,-73.89188969999998&destinations=40.6905615%2C-73.9976592|40.6905615%2C-73.9976592
+```
