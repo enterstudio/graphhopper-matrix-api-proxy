@@ -8,8 +8,10 @@ Apache License 2.0
 
 ### Installation
 
+```bash
 npm install
 node app.js
+```
 
 ### Try
 
